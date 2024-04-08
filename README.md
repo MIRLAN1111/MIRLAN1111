@@ -1,4 +1,4 @@
-![Uploading HI-I-AM-MIRLANCHIK-08-04-2024.gif…]()
+<h1>HI I AM MIRLAN</h1>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
