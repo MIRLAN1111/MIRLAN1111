@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm MIRLAN</h1>
+![download (1)](https://github.com/MIRLAN1111/MIRLAN1111/assets/148762253/48020174-efa4-4d17-b5e0-df635b5e8307)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirlan1111&label=Profile%20views&color=0e75b6&style=flat" alt="mirlan1111" /> </p>
