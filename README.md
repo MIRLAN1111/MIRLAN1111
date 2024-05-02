@@ -1,5 +1,5 @@
 <h1>HI I AM MIRLANCHIK</h1>
-![Uploading 68747470733a2f2f692e706f7374696d672e63632f59323478477657382f6769746875622e706e67.png…]()
+
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
