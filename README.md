@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">hi I live in Kyrgyzstan I am a front-end developer✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirlan1111&label=Profile%20views&color=0e75b6&style=flat" alt="mirlan1111" /> </p>
 
