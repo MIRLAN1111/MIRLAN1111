@@ -2,6 +2,11 @@
 
 ![snake](https://github.com/MIRLAN1111/MIRLAN1111/assets/148762253/ce3b3fad-7439-4d60-9e18-be322e45da83)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
