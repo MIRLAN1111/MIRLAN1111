@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=781BF7&background=5B18FF00&random=false&width=435&lines=Hello+my+name+is+MIRLAN+I+work+for+Front-end+developers)](https://git.io/typing-svg)
+
 
 
 ![snake](https://github.com/MIRLAN1111/MIRLAN1111/assets/148762253/ce3b3fad-7439-4d60-9e18-be322e45da83)
