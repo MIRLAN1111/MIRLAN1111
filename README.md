@@ -2,7 +2,7 @@
 
 
   
-<h1>HI I AM MIRLANCHIK</h1>
+<h1>DEV CODE </h1>
 <div id="header" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=781BF7&background=5B18FF00&random=false&width=435&lines=Hello+my+name+is+MIRLAN+I+work+for+Front-end+developers" alt="Typing SVG" /></a>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
